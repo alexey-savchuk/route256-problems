@@ -1,0 +1,64 @@
+contests:
+- id: route256-2023
+  title: "Route 256: Junior Go-разработчик"
+  rounds:
+  - id: main-round
+    title: "Основной раунд"
+    problems:
+    - id: A
+      title: "Построение графика"
+      path: 2023-main-round/A
+    - id: B
+      title: "Подсчет количества уникальных элементов в JSON"
+      path: 2023-main-round/B
+    - id: C
+      title: "Поиск n-го самого большого числа в массиве"
+      path: 2023-main-round/C
+    - id: D
+      title: "Показать оптимальную стоимость товара"
+      path: 2023-main-round/D
+    - id: E
+      title: "Склад"
+      path: 2023-main-round/E
+    - id: F
+      title: "Сравнение римских чисел"
+      path: 2023-main-round/F
+    - id: G
+      title: "SQL: Подсчёт статистики"
+      path: 2023-main-round/G
+- id: route256-2024
+  title: "Route 256: Junior Go-разработчик"
+  rounds:
+  - id: practice-round
+    title: "Тренировочный раунд"
+    problems:
+    - id: A
+      title: "Морской бой"
+      path: 2024-practice-round/A
+    - id: B
+      title: "Проверка даты"
+      path: 2024-practice-round/B
+    - id: C
+      title: "Автомобильные номера"
+      path: 2024-practice-round/C
+    - id: D
+      title: "Битва за кондиционер"
+      path: 2024-practice-round/D
+    - id: E
+      title: "Компрессия данных"
+      path: 2024-practice-round/E
+    - id: F
+      title: "Терминал"
+      path: 2024-practice-round/F
+    - id: G
+      title: "Печать документа"
+      path: 2024-practice-round/G
+    - id: H
+      title: "3-Покер"
+      path: 2024-practice-round/H
+    - id: I
+      title: "Анализ игрового поля"
+      path: 2024-practice-round/I
+    - id: J
+      title: "Дерево комментариев"
+      path: 2024-practice-round/J
