@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "route256-problems"
+version = "0.1.0"
+description = ""
+authors = ["Alexey Savchuk <alexey.a.savchuk@yandex.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.group.dev.dependencies]
+pre-commit = "^3.6.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
